@@ -4,7 +4,7 @@ The actions above are already implemented inside the project, feel free to clone
 npm install
 ng serve 
 ```
-<br><br>
+<br>
 
 
 **1. Edit ```Polyfills.ts```**
