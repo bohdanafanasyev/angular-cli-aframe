@@ -7,7 +7,7 @@ The actions above are already implemented inside the project, feel free to clone
 ```import 'aframe';```
 
 **Note:** current line should be inserted before ```import 'zone.js/dist/zone';``` 
-<br><br>
+<br><br><br>
 **2. Modify**  ```app.module.ts```  **with CUSTOM_ELEMENTS_SCHEMA**
 
 ```import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
