@@ -1,6 +1,6 @@
 # Angular-CLI-Aframe
 
-*Edit ```Polyfills.ts```*
+**Edit ```Polyfills.ts```**
 
 ```import 'aframe';```
 
