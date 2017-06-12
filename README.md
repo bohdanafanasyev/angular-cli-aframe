@@ -10,10 +10,11 @@ The actions above are already implemented inside the project, feel free to clone
 <br><br><br>
 **2. Modify**  ```app.module.ts```  **with CUSTOM_ELEMENTS_SCHEMA**
 
-```import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
+```
+import { ...CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 
 @NgModule({
-  imports: [ BrowserModule, FormsModule ],
+  imports: [ ... ],
   declarations: [ AppComponent ],
   bootstrap: [ AppComponent ],
   schemas: [ CUSTOM_ELEMENTS_SCHEMA ]
