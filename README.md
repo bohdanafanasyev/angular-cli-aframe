@@ -7,7 +7,7 @@
 **Note:** current line should be inserted before ```import 'zone.js/dist/zone';``` 
   
   
-  
+  \s\s
   
 **Modify ```app.module.ts``` with CUSTOM_ELEMENTS_SCHEMA**
 
