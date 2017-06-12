@@ -1,3 +1,3 @@
 # Angular-CLI-Aframe
 
-import 'aframe';
+```import 'aframe';```
