@@ -1,7 +1,7 @@
 # Angular-CLI-Aframe
 The actions above are already implemented inside the project, feel free to clone and install dependencies.
 ```
-npm install
+npm i
 ng serve 
 ```
 <br>
