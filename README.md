@@ -1,10 +1,10 @@
 # Angular-CLI-Aframe
-<br>
-The actions above are already implemented inside the project, feel free to clone and install dependencies.<br><br>```
+The actions above are already implemented inside the project, feel free to clone and install dependencies.
+```
 npm install
 ng serve 
 ```
-<br>
+<br><br>
 
 
 **1. Edit ```Polyfills.ts```**
