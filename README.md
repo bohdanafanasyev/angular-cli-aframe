@@ -4,11 +4,11 @@
 
 ```import 'aframe';```
 
-*Note:* current line should be inserted before ```import 'zone.js/dist/zone';``` 
+**Note:** current line should be inserted before ```import 'zone.js/dist/zone';``` 
 
 
 <br>
-*Modify ```app.module.ts``` with CUSTOM_ELEMENTS_SCHEMA*
+**Modify ```app.module.ts``` with CUSTOM_ELEMENTS_SCHEMA**
 
 ```import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 
